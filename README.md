@@ -1,1 +1,1 @@
-# FYP_Fake-News-Detection-Using-Machine-Learning
+# AI-Powered Movie Analytics & Recommendation System
